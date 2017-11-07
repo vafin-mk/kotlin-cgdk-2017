@@ -1,5 +1,3 @@
-kotlin-cgdk-2016
-
 Kotlin language package for RussianAICup 2017. 
 
 Install kotlin compiler from https://github.com/JetBrains/kotlin/releases/latest
